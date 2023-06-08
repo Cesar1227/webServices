@@ -1,1 +1,1 @@
-Juego de Picas y Fijas impaquetado en Docker
+Juego de Picas y Fijas empaquetado en Docker
